@@ -2,7 +2,11 @@ package com.rizze.vcfiscal.bean;
 
 import com.google.gson.annotations.Expose;
 import com.rizze.vcfiscal.tools.Tools;
-
+/**
+ * 
+ * @author JE@RIZZE.COM
+ *
+ */
 public class Foto {
 	@Expose public int ordem;					//JECONEX
 	@Expose public String key; 				//JE

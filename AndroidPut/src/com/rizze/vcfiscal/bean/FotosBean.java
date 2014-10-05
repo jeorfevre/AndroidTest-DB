@@ -16,7 +16,7 @@ import com.rizze.vcfiscal.tools.Tools;
 public class FotosBean {
 
 	
-	@Expose public String data; 					//JE ONCREATE
+	@Expose public String data; 					
 	@Expose public String idfiscalisacao; 			//JECONEX
 	public int HTTP_CODE;
 	@Expose public Lugar lugar=new Lugar();
